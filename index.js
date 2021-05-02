@@ -12,7 +12,7 @@ class Circle{
     return 2 * this.radius;
   }
   set circumference(circumference){
-    this.radius = circumference/(2*pi);
+    this.radius = circumference/(2*thpi);
   }
   get circumference(){
     return 2 * this.pi * this.radius;
