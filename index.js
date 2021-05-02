@@ -6,7 +6,7 @@ class Circle{
     this.pi = 3.14;
   }
   set diameter(diameter){
-    this.radius = radius;
+    this. = radius;
   }
   get diameter(){
     return 2 * this.radius;
